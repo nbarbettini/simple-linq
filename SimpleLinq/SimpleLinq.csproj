@@ -43,6 +43,18 @@
     <Compile Include="CompilingExpressionVisitor.cs" />
     <Compile Include="DiscoveringExpressionVisitor.cs" />
     <Compile Include="Evaluator.cs" />
+    <Compile Include="Expressions\FooExpression.cs" />
+    <Compile Include="Expressions\OrderByExpression.cs" />
+    <Compile Include="Expressions\ParsedExpression.cs" />
+    <Compile Include="Expressions\ResultOperators\AnyResultOperator.cs" />
+    <Compile Include="Expressions\ResultOperators\CountResultOperator.cs" />
+    <Compile Include="Expressions\ResultOperators\FirstResultOperator.cs" />
+    <Compile Include="Expressions\ResultOperators\ResultOperatorExpression.cs" />
+    <Compile Include="Expressions\ResultOperators\SingleResultOperator.cs" />
+    <Compile Include="Expressions\SkipExpression.cs" />
+    <Compile Include="Expressions\TakeExpression.cs" />
+    <Compile Include="Expressions\WhereMemberExpression.cs" />
+    <Compile Include="Extensions\FooExtension.cs" />
     <Compile Include="LinqHelper.cs" />
     <Compile Include="OrderByDirection.cs" />
     <Compile Include="OrderByItem.cs" />
@@ -58,9 +70,7 @@
     <Compile Include="WhereExpressionVisitor.cs" />
     <Compile Include="WhereItem.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="NewFolder1\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

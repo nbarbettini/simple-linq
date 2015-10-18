@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SimpleLinq1.Tests
+namespace SimpleLinq.Tests
 {
     public class TestItem
     {

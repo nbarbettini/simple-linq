@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Linq.Expressions;
 
-namespace SimpleLinq1
+namespace SimpleLinq
 {
     public sealed class SimpleQueryProvider : IQueryProvider
     {

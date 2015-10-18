@@ -1,8 +1,8 @@
 ﻿using Shouldly;
-using SimpleLinq1.Extensions;
+using SimpleLinq.Extensions;
 using Xunit;
 
-namespace SimpleLinq1.Tests
+namespace SimpleLinq.Tests
 {
     public class Foo_extension_tests
     {

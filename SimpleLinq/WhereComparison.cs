@@ -1,4 +1,4 @@
-﻿namespace SimpleLinq1
+﻿namespace SimpleLinq
 {
     public enum WhereComparison
     {

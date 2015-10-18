@@ -3,7 +3,7 @@ using Shouldly;
 using System;
 using Xunit;
 
-namespace SimpleLinq1.Tests
+namespace SimpleLinq.Tests
 {
     public class Where_tests
     {

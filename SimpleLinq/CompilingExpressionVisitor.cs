@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Linq.Expressions;
-using SimpleLinq1.Expressions;
-using SimpleLinq1.Expressions.ResultOperators;
+using SimpleLinq.Expressions;
+using SimpleLinq.Expressions.ResultOperators;
 
-namespace SimpleLinq1
+namespace SimpleLinq
 {
     internal class CompilingExpressionVisitor : ExpressionVisitor
     {

@@ -1,6 +1,6 @@
 ﻿using System.Linq.Expressions;
 
-namespace SimpleLinq1
+namespace SimpleLinq
 {
     public class QueryModelCompiler
     {

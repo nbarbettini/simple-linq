@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace SimpleLinq1
+namespace SimpleLinq
 {
     public class QueryModel
     {

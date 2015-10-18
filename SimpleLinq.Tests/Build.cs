@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Linq.Expressions;
 
-namespace SimpleLinq1.Tests
+namespace SimpleLinq.Tests
 {
     public static class Build
     {

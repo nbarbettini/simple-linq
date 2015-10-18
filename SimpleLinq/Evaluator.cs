@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq.Expressions;
 
-namespace SimpleLinq1
+namespace SimpleLinq
 {
     internal static class Evaluator
     {

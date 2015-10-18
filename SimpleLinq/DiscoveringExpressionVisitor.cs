@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq.Expressions;
-using SimpleLinq1.Expressions;
-using SimpleLinq1.Expressions.ResultOperators;
+using SimpleLinq.Expressions;
+using SimpleLinq.Expressions.ResultOperators;
 
-namespace SimpleLinq1
+namespace SimpleLinq
 {
     internal sealed class DiscoveringExpressionVisitor : ExpressionVisitor
     {

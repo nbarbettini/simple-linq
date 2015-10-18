@@ -2,7 +2,7 @@
 using System.Linq.Expressions;
 using System.Reflection;
 
-namespace SimpleLinq1
+namespace SimpleLinq
 {
     internal static class LinqHelper
     {

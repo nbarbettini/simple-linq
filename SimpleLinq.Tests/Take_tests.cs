@@ -3,7 +3,7 @@ using System.Linq;
 using Shouldly;
 using Xunit;
 
-namespace SimpleLinq1.Tests
+namespace SimpleLinq.Tests
 {
     public class Take_tests
     {

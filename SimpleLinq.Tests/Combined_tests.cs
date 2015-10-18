@@ -2,7 +2,7 @@
 using Shouldly;
 using Xunit;
 
-namespace SimpleLinq1.Tests
+namespace SimpleLinq.Tests
 {
     public class Combined_tests
     {

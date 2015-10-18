@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace SimpleLinq1
+namespace SimpleLinq
 {
     internal static class TypeSystem
     {

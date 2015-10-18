@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq.Expressions;
 
-namespace SimpleLinq1
+namespace SimpleLinq
 {
     internal sealed class SimpleExecutor
     {
