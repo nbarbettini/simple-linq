@@ -4,4 +4,4 @@ install:
 - nuget restore -source "https://www.nuget.org/api/v2" ./SimpleLinq.sln -verbosity detailed
 script:
 - xbuild /p:Configuration=Release ./SimpleLinq.sln
-- mono ./SimpleLinq.Tests/packages/xunit.runner.console*/tools/xunit.console.exe ./SimpleLinq.Tests/bin/Release/SimpleLinq.Tests.dll
+- mono ./packages/xunit.runner.console*/tools/xunit.console.exe ./SimpleLinq.Tests/bin/Release/SimpleLinq.Tests.dll
